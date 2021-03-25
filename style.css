@@ -2,8 +2,8 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     font-size: x-large;
-    background-color: rgb(34, 34, 34);
-    color: rgb(197, 197, 197);
+    background-color: rgb(90, 84, 76);
+    color: rgb(255, 255, 255);
     }
     h1 {
         font: bold, italic;
@@ -11,15 +11,14 @@ html {
         .sub {
             font: italic;
             font-size: small;
-            padding-top: 0pt;
         }
 a:link {
-    color: rgb(197, 197, 197);
+    color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: none;
   }
   a:visited {
-    color: rgb(197, 197, 197);
+    color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: none;
   }
@@ -39,10 +38,8 @@ a:link {
     
 }
 body {
-    padding: 50px;
-    hyphens: auto;
+    padding: 15%;
     word-break: normal;
-    word-spacing: 120%;
 }
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -50,12 +47,7 @@ p {
     padding: 40px 5px 40px 5px;
     margin-top: auto;
     margin-bottom: auto;
-    margin-left: 650px;
-    margin-right: 650px;
+    margin-left: 5%;
+    margin-right: 5%;
     hyphens: auto;
-}
-.textboxmodel {
-    width: 100px 100px;
-    padding: 5px;
-    word-break: normal;
 }
